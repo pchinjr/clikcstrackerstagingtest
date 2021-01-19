@@ -1,2 +1,0 @@
-# clikcstrackerstagingtest
-Begin app
